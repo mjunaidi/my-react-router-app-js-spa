@@ -40,7 +40,15 @@ publish = "build/client"
 command = "react-router dev"
 ```
 
-----
+---
+
+## Main Reference React-Router SPA
+
+https://reactrouter.com/how-to/spa
+
+
+
+---
 
 ### Creating new route
 
